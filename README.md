@@ -25,7 +25,7 @@
     phone: 09035384705,
     email: "iMeysamHazrati@gmail.com"
   },
-  technologies: ["HTML", "CSS", "Tailwind", "JS"],
+  technologies: ["HTML", "CSS", "Tailwind", "JS", "React"],
   isCoding: true
 }
 ```
@@ -35,4 +35,5 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/css.svg" alt="CSS" /></a>
   <a href="https://tailwindcss.com"><img src="./icons/tailwind.svg" alt="Tailwind" /></a>
   <a href="https://javascript.info"><img src="./icons/js.svg" alt="JS" /></a>
+  <a href="https://react.dev"><img src="./icons/react.svg" alt="React" /></a>
 <div>
