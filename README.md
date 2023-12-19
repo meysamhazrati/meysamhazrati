@@ -25,7 +25,7 @@
     phone: 09035384705,
     email: "iMeysamHazrati@gmail.com"
   },
-  technologies: ["HTML", "CSS", "Tailwind", "JS", "React", "Node", "Express"],
+  technologies: ["HTML", "CSS", "Tailwind", "JS", "React", "Node", "Express", "MongoDB"],
   isCoding: true
 }
 ```
@@ -38,4 +38,5 @@
   <a href="https://react.dev"><img src="./icons/react.svg" alt="React" /></a>
   <a href="https://nodejs.org"><img src="./icons/node.svg" alt="Node" /></a>
   <a href="https://expressjs.com"><img src="./icons/express.svg" alt="Express" /></a>
+  <a href="https://mongodb.com"><img src="./icons/mongodb.svg" alt="MongoDB" /></a>
 <div>
