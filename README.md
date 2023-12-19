@@ -25,11 +25,12 @@
     phone: 09035384705,
     email: "iMeysamHazrati@gmail.com"
   },
-  technologies: ["HTML"],
+  technologies: ["HTML", "CSS"],
   isCoding: true
 }
 ```
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/html.svg" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/css.svg" alt="CSS" /></a>
 <div>
